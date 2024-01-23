@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zikhon&label=Profile%20views&color=0e75b6&style=flat" alt="zikhon" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **a flutter project**
 
-- 🌱 I’m currently learning **ReactJS, Python, NodeJS, Firebase**
+- 🌱 I’m currently learning **ReactJS, Python, NodeJS, Firebase, flutter, dart**
 
 - 👨‍💻 All of my projects are available at [Zikhon](Zikhon)
 
